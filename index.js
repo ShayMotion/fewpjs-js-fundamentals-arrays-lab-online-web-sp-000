@@ -1,4 +1,4 @@
 // Write your solution here!
 const pets = ['Milo', 'Otis', 'Garfield'];
 
-const appendPets = [...pets, ]
+const appendPets = [...pets, 'Odie'];
